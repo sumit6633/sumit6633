@@ -1,7 +1,3 @@
-Creating a README.md for your GitHub profile is a great way to showcase your skills and projects. Here's a template you can use:
-
----
-
 # Welcome to My GitHub Profile 👋
 
 ## About Me
@@ -12,7 +8,7 @@ Creating a README.md for your GitHub profile is a great way to showcase your ski
 - 🎵 Developed an Android Music cum Karaoke application that offers a user-friendly experience with built-in karaoke features.
 
 ## Skills
-- **Programming Languages:** C, Java
+- **Programming Languages:** Java,Python and its frameworks and libraries
 - **Mobile Development:** Android
 - **Web Technologies:** HTML, CSS
 - **Operating Systems:** Android, Windows, Ubuntu, Fedora
